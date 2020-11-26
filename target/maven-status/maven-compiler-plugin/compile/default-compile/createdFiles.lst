@@ -1,0 +1,5 @@
+com\qn\Application.class
+com\qn\kafka\KafkaSender.class
+com\qn\kafka\KafkaConsumer.class
+com\qn\kafka\Message.class
+com\qn\kafka\Test1.class
